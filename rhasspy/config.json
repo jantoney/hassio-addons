@@ -17,8 +17,8 @@
         "profile_dir": "/share/rhasspy/profiles",
         "profile_name": "en",
         "ssl": false,
-        "certfile": "cert",
-        "keyfile": "key",
+        "certfile": "fullchain.pem",
+        "keyfile": "privkey.pem",
         "asoundrc": "",
         "http_root": ""
     },
